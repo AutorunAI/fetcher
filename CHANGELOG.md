@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2025-06-05
+
+### Fixed
+- Fixed README.md encoding issue (UTF-16 to UTF-8)
+- Improved package documentation display on npm
+
 ## [1.0.0] - 2025-06-05
 
 ### Added
